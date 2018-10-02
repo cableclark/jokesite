@@ -7,6 +7,6 @@
         </textarea>
  </div>
  <div class="form-group">
-        <input class="btn btn-primary"type="submit" name="submit" value="Add">
+        <input class="btn btn-primary" type="submit" name="submit" value="Add">
     </form>
 </div>

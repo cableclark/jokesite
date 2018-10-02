@@ -14,8 +14,8 @@
         <nav >
             <ul class="nav">
                 <li class= "nav-link"><a href="index.php">Home</a></li>
-                <li class= "nav-link"><a href="jokes.php">Jokes List</a></li>
-                <li class= "nav-link"><a href="addjokes.php">Add a new Joke</a></li>
+                <li class= "nav-link"><a href="index.php?action=list">Jokes List</a></li>
+                <li class= "nav-link"><a href="index.php?action=edit">Add a new Joke</a></li>
             </ul>
         </nav>
         </div>
